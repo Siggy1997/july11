@@ -20,7 +20,7 @@
 >= 또는 ge
 	 -->
 	<c:forEach begin="1" end="10" var="i">
-		<%-- 		<c:if test="${i ge 3 }">  
+		<%-- 		<c:if test="${i lt 3 }">  
 				${i } 삼입니다.
 		</c:if>
  --%>
